@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+  <img src="![Uploading wallpapersden.com_virat-kohli-listen-music-style_3840x2160.jpg…]()
+" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
@@ -121,9 +122,9 @@ python3 bot.py
 
 
 ## Thanks to 
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding `file renaming feature` 🎉
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for keeping this `super premium repo` for `free` ❤
+ - Thank you [Moviekaadabot](https://github.com/moviesfiles/Moviekaadabot.git) for helping us in this journey ❤
+ - Thank you [Moviekaadabot](https://github.com/moviesfiles/Moviekaadabot.git) for adding `file renaming feature` 🎉
+ - Thank you [Moviekaadabot](https://github.com/moviesfiles/Moviekaadabot.git) for keeping this `super premium repo` for `free` ❤
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
