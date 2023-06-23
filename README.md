@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading wallpapersden.com_virat-kohli-listen-music-style_3840x2160.jpg…]()
-" alt="Lazy Princess Logo">
+ <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
